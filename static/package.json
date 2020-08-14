@@ -29,7 +29,6 @@
   "author": "https://github.com/anorudes, https://github.com/keske",
   "license": "MIT",
   "devDependencies": {
-    "moment": "^2.18.1",
     "autoprefixer": "6.5.3",
     "axios": "^0.15.3",
     "babel-core": "^6.4.5",
@@ -63,6 +62,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.9.0",
     "gapi": "0.0.3",
+    "gulp-sass": "^4.1.0",
     "history": "^4.4.1",
     "http-proxy": "^1.12.0",
     "imports-loader": "^0.6.5",
@@ -78,8 +78,9 @@
     "lodash": "^4.5.1",
     "material-ui": "^0.16.4",
     "mocha": "^3.0.2",
+    "moment": "^2.18.1",
     "morgan": "^1.6.1",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.14.1",
     "postcss-import": "^9.0.0",
     "postcss-loader": "^1.1.1",
     "q": "^1.4.1",
@@ -117,6 +118,5 @@
     "webpack-merge": "^1.0.2",
     "yargs": "^6.5.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

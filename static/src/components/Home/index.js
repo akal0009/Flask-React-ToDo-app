@@ -1,9 +1,10 @@
-import React from 'react';
+import React from "react";
 
-export const Home = () =>
-    <section>
-        <div className="container text-center">
-            <h1>UCLA Extension 2017</h1>
-            <h2>Time Managment Assistant</h2>
-        </div>
-    </section>;
+export const Home = () => (
+  <section>
+    <div className="container text-center">
+      <h1>Gov-Hack 2020</h1>
+      <h2>Covid Recovery App</h2>
+    </div>
+  </section>
+);
